@@ -1,4 +1,4 @@
-# 1° Taller Blockchain - DigitalBank / ITAxxion
+# 1° Taller Blockchain - Día Cero / Telemática
 
 
   En esta sección del taller es donde metemos las manos! la idea es tener una primera experiencia directa con las más comunes herramientas de la red ethereum, la idea es que sea capaz de meterte por ti mism@, guiado por medio de este documento.Sin embargo, los monitores están para ayudarte. No dudes en consultarles!
